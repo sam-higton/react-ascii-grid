@@ -1,0 +1,24 @@
+{
+  "name": "react-ascii-grid",
+  "version": "0.0.1",
+  "description": "draw with characters in react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sam-higton/react-ascii-grid.git"
+  },
+  "keywords": [
+    "react",
+    "ascii",
+    "ascii-art"
+  ],
+  "author": "Sam Higton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sam-higton/react-ascii-grid/issues"
+  },
+  "homepage": "https://github.com/sam-higton/react-ascii-grid#readme"
+}
